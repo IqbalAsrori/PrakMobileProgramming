@@ -11,5 +11,10 @@
 |  4 | 10-09-2025  | 02  | Widget Flexible dan Expanded  | [Modul 04](https://docs.google.com/document/d/1lWqK4V2_RwpLHko1JVFW5jdShiUwbrc35ct-D-1hBiI/edit?hl=id&tab=t.q0f12bk6u6yb) | [Ptogram](https://github.com/IqbalAsrori/flexible) |
 |  5 | 17-09-2025  | 03  | Widget SizedBox, Spacer dan Card  | [Modul 05](https://docs.google.com/document/d/1lWqK4V2_RwpLHko1JVFW5jdShiUwbrc35ct-D-1hBiI/edit?hl=id&tab=t.je65maipr1tn) | [Ptogram](https://github.com/IqbalAsrori/demo_sizedbox) |
 |  6 | 17-09-2025  | 03  | idView, GridView.Builder, ListView, ListViewBuilder  | [Modul 06](https://docs.google.com/document/d/1lWqK4V2_RwpLHko1JVFW5jdShiUwbrc35ct-D-1hBiI/edit?hl=id&tab=t.wgkhbazigujp) | [Ptogram](https://github.com/IqbalAsrori/demo_gridview) |
-|  5 | 24-09-2025  | 04  | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route  | [Modul 07](https://docs.google.com/document/d/1lWqK4V2_RwpLHko1JVFW5jdShiUwbrc35ct-D-1hBiI/edit?hl=id&tab=t.7in9dle7rnp2) | [Ptogram](https://github.com/IqbalAsrori/modul7) |
-|  6 | 24-09-2025  | 04  | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route  | [Modul 08](https://docs.google.com/document/d/1lWqK4V2_RwpLHko1JVFW5jdShiUwbrc35ct-D-1hBiI/edit?hl=id&tab=t.rucdjtamy191) | [Ptogram](https://github.com/IqbalAsrori/modul8) |
+|  7 | 24-09-2025  | 04  | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route  | [Modul 07](https://docs.google.com/document/d/1lWqK4V2_RwpLHko1JVFW5jdShiUwbrc35ct-D-1hBiI/edit?hl=id&tab=t.7in9dle7rnp2) | [Ptogram](https://github.com/IqbalAsrori/modul7) |
+|  8 | 24-09-2025  | 04  | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route  | [Modul 08](https://docs.google.com/document/d/1lWqK4V2_RwpLHko1JVFW5jdShiUwbrc35ct-D-1hBiI/edit?hl=id&tab=t.rucdjtamy191) | [Ptogram](https://github.com/IqbalAsrori/modul8) |
+|  9 | 24-09-2025  | 05  | StatefulWidget  | [Modul 9]() | [Ptogram]() |
+|  10 | 24-09-2025  | 05  | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter  | [Modul 10]() | [Ptogram]() |
+|  11 | 24-09-2025  | 06  | Manajemen State dengan GetX  | [Modul 11 ]() | [Ptogram]() |
+|  12 | 24-09-2025  | 04  | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route  | [Modul 12]() | [Ptogram]() |
+
