@@ -15,6 +15,6 @@
 |  8 | 24-09-2025  | 04  | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route  | [Modul 08](https://docs.google.com/document/d/1lWqK4V2_RwpLHko1JVFW5jdShiUwbrc35ct-D-1hBiI/edit?hl=id&tab=t.rucdjtamy191) | [Ptogram](https://github.com/IqbalAsrori/modul8) |
 |  9 | 24-09-2025  | 05  | StatefulWidget  | [Modul 9](https://docs.google.com/document/d/1lWqK4V2_RwpLHko1JVFW5jdShiUwbrc35ct-D-1hBiI/edit?hl=id&tab=t.n6cm4mj6uvc2) | [Ptogram](https://github.com/IqbalAsrori/tasbih_app) |
 |  10 | 24-09-2025  | 05  | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter  | [Modul 10](https://docs.google.com/document/d/1lWqK4V2_RwpLHko1JVFW5jdShiUwbrc35ct-D-1hBiI/edit?hl=id&tab=t.ov5tkootooet) | [Ptogram](https://github.com/IqbalAsrori/game_app) |
-|  11 | 24-09-2025  | 06  | Manajemen State dengan GetX  | [Modul 11 ](https://docs.google.com/document/d/1lWqK4V2_RwpLHko1JVFW5jdShiUwbrc35ct-D-1hBiI/edit?hl=id&tab=t.mwyvwxktpdpg) | [Ptogram]() |
+|  11 | 24-09-2025  | 06  | Manajemen State dengan GetX  | [Modul 11 ](https://docs.google.com/document/d/1lWqK4V2_RwpLHko1JVFW5jdShiUwbrc35ct-D-1hBiI/edit?hl=id&tab=t.mwyvwxktpdpg) | [Ptogram](https://github.com/IqbalAsrori/tasbih_getx) |
 |  12 | 24-09-2025  | 06  | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route  | [Modul 12]() | [Ptogram]() |
 
