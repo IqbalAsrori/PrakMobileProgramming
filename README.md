@@ -17,5 +17,5 @@
 |  10 | 01-10-2025  | 06  | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter  | [Modul 10](https://docs.google.com/document/d/1lWqK4V2_RwpLHko1JVFW5jdShiUwbrc35ct-D-1hBiI/edit?hl=id&tab=t.ov5tkootooet) | [Ptogram](https://github.com/IqbalAsrori/game_app) |
 |  11 | 08-10-2025  | 07  | Manajemen State dengan GetX  | [Modul 11 ](https://docs.google.com/document/d/1lWqK4V2_RwpLHko1JVFW5jdShiUwbrc35ct-D-1hBiI/edit?hl=id&tab=t.mwyvwxktpdpg) | [Ptogram](https://github.com/IqbalAsrori/tasbih_getx) |
 |  12 | 29-10-2025  | 08  | UTS  | [UTS](https://drive.google.com/drive/folders/162gyOEAZGO4w1pSWqC-nwQirMz_8DkO2) | [Ptogram](https://github.com/IqbalAsrori/ngaji_quiz) |
-|  13 | 24-09-2025  | 09  | [Akses Lokasi dengan GPS di Flutter](https://docs.google.com/document/d/1lWqK4V2_RwpLHko1JVFW5jdShiUwbrc35ct-D-1hBiI/edit?hl=id&tab=t.m5mvubjdc0jj) | [Ptogram]) |
+|  13 | 24-09-2025  | 09  | [Akses Lokasi dengan GPS di Flutter](https://docs.google.com/document/d/1lWqK4V2_RwpLHko1JVFW5jdShiUwbrc35ct-D-1hBiI/edit?hl=id&tab=t.m5mvubjdc0jj) | [Ptogram]() |
 
