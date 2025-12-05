@@ -18,4 +18,5 @@
 |  11 | 08-10-2025  | 07  | Manajemen State dengan GetX  | [Modul 11 ](https://docs.google.com/document/d/1lWqK4V2_RwpLHko1JVFW5jdShiUwbrc35ct-D-1hBiI/edit?hl=id&tab=t.mwyvwxktpdpg) | [Ptogram](https://github.com/IqbalAsrori/tasbih_getx) |
 |  12 | 29-10-2025  | 08  | UTS  | [UTS](https://drive.google.com/drive/folders/162gyOEAZGO4w1pSWqC-nwQirMz_8DkO2) | [Ptogram](https://github.com/IqbalAsrori/ngaji_quiz) |
 |  13 | 24-09-2025  | 09  | Akses Lokasi dengan GPS di Flutter | [Modul 12](https://docs.google.com/document/d/1lWqK4V2_RwpLHko1JVFW5jdShiUwbrc35ct-D-1hBiI/edit?hl=id&tab=t.m5mvubjdc0jj) | [Ptogram](https://github.com/IqbalAsrori/lokasi_flutter) |
+|  14 | 14-10-2025  | 10  | Akses Lokasi dengan GPS di FlutterOperasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API | [Modul 13](https://docs.google.com/document/d/1lWqK4V2_RwpLHko1JVFW5jdShiUwbrc35ct-D-1hBiI/edit?hl=id&tab=t.m5mvubjdc0jj) | [Ptogram](https://github.com/IqbalAsrori/lokasi_flutter) |
 
